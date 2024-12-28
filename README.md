@@ -8,7 +8,6 @@
 3. Design Patterns: Reusable solutions to common problems in software design.
    
        1. Creational Design Patterns
-   
             1. Singleton
             2. Factory Method
             3. Abstract Factory Method
@@ -16,7 +15,6 @@
             5. Builder
    
        2. Structural Design Patterns
-   
             6. Adapter
             7. Bridge
             8. Composite
@@ -26,7 +24,6 @@
             12. Proxy
    
        3. Behavioral Design Patterns
-   
             13. Chain of Responsibility
             14. Command
             15. Iterator
@@ -34,7 +31,6 @@
             17. Memento
             18. Observer
             19. State
-   
             20. Strategy
             21. Template Method
             22. Visitor
