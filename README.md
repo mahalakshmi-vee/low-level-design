@@ -48,10 +48,10 @@
 | Design Pattern           | When to use   |
 | ------------------------ | ------------- |
 | Singleton                | When you need to ensure a class has only one instance and provide a global access point.  |
-| Factory Method           | Content Cell  |
-| Abstract Factory Method  | Content Cell  |
+| Factory Method           | When you want to create objects, but allow subclasses to alter the type of objects that will be created.  |
+| Abstract Factory Method  | When you need to create families of related or dependent objects without specifying their concrete classes.  |
 | Prototype                | When you need to create exact copies of objects without knowing the exact class of the object.  |
-| Builder                  | Content Cell  |
+| Builder                  | When you need to construct complex objects step by step, especially when objects have many parameters.  |
 | Adapter                  | When you need to enable communication between two incompatible interfaces without changing the existing code.  |
 | Bridge                   | Content Cell  |
 | Composite                | Content Cell  |
