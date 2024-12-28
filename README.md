@@ -34,3 +34,13 @@
             20. Strategy
             21. Template Method
             22. Visitor
+4. UML Diagrams
+5. Data Structures & Algorithms
+6. Database Design
+## Steps Involved in Low-Level Design
+1. Clarify Requirements: Understand the problem you're solving.
+2. Identify Entities: Identify the core entities that will play a role in the system.
+3. Class Design: Create detailed design for the classes and their relationships.
+4. Implementation: Code the design, translating the design into working software.
+5. Exception Handling: Design and implement error handling mechanisms.
+   
