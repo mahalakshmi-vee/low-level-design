@@ -45,29 +45,28 @@
    5. Exception Handling: Design and implement error handling mechanisms.
 
 ## Design Patterns an When to Use Them
-
-    | Design Pattern           | When to use   |
-    | ------------------------ | ------------- |
-    | Singleton                | When you need to ensure a class has only one instance and provide a global access point.  |
-    | Factory Method           | When you want to create objects, but allow subclasses to alter the type of objects that will be created.  |
-    | Abstract Factory Method  | When you need to create families of related or dependent objects without specifying their concrete classes.  |
-    | Prototype                | When you need to create exact copies of objects without knowing the exact class of the object.  |
-    | Builder                  | When you need to construct complex objects step by step, especially when objects have many parameters.  |
-    | Adapter                  | When you need to enable communication between two incompatible interfaces without changing the existing code.  |
-    | Bridge                   | Content Cell  |
-    | Composite                | Content Cell  |
-    | Decorator                | Content Cell  |
-    | Facade                   | Content Cell  |
-    | Flyweight                | Content Cell  |
-    | Proxy                    | Content Cell  |
-    | Decorator                | Content Cell  |
-    | Chain of Responsibility  | When you need to pass a request through a chain of handlers, where each handler can process it or pass it on.  |
-    | Command                  | Content Cell  |
-    | Iterator                 | Content Cell  |
-    | Mediator                 | Content Cell  |
-    | Memento                  | Content Cell  |
-    | Observer                 | Content Cell  |
-    | State                    | Content Cell  |
-    | Strategy                 | When you have multiple algorithms that can be applied to a given task, but you want to choose the most appropriate one dynamically at runtime. |
-    | Template Method          | Content Cell  |
-    | Visitor                  | Content Cell  |
+| Design Pattern           | When to use   |
+| ------------------------ | ------------- |
+| Singleton                | When you need to ensure a class has only one instance and provide a global access point.  |
+| Factory Method           | Content Cell  |
+| Abstract Factory Method  | Content Cell  |
+| Prototype                | When you need to create exact copies of objects without knowing the exact class of the object.  |
+| Builder                  | Content Cell  |
+| Adapter                  | When you need to enable communication between two incompatible interfaces without changing the existing code.  |
+| Bridge                   | Content Cell  |
+| Composite                | Content Cell  |
+| Decorator                | Content Cell  |
+| Facade                   | Content Cell  |
+| Flyweight                | Content Cell  |
+| Proxy                    | Content Cell  |
+| Decorator                | Content Cell  |
+| Chain of Responsibility  | When you need to pass a request through a chain of handlers, where each handler can process it or pass it on.  |
+| Command                  | Content Cell  |
+| Iterator                 | Content Cell  |
+| Mediator                 | Content Cell  |
+| Memento                  | Content Cell  |
+| Observer                 | Content Cell  |
+| State                    | Content Cell  |
+| Strategy                 | When you have multiple algorithms that can be applied to a given task, but you want to choose the most appropriate one dynamically at runtime. |
+| Template Method          | Content Cell  |
+| Visitor                  | Content Cell  |
