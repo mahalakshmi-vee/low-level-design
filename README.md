@@ -12,7 +12,7 @@ This design provides the foundation for High Level Design (HLD), which defines a
       5. Encapsulation
 #### Learn about the DESIGN PRINCIPLES:
       1. SOLID (Single Responsibility, Open for Extension & Closed for Modification, Liskov Substitution, Interface Segmentation, Dependency Inversion)
-      2. DRY (Do Not Repea Yourself)
+      2. DRY (Do Not Repeat Yourself)
       3. KISS (Keep It Simple Stupid)
       4. YAGNI (You Are Not Gonna Neet It)
       5. GRASP (General Responsibility Assignment Sotware Patterns)
