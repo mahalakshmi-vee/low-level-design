@@ -47,3 +47,13 @@ This design provides the foundation for High Level Design (HLD), which defines a
            v.  Interpreter
           vi.  Command
          vii.  Template
+
+#### Level 1 Practise Problems
+      1. Design Parking Lot
+      2. Design a Vending Machine
+      3. Design Stack Overflow
+      4. Design Logging Framework
+      5. Design Coffee Vending Machine
+      6. Design Traffic Signal Control System
+      7. Design a Task Management System
+
