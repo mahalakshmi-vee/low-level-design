@@ -48,7 +48,7 @@ This design provides the foundation for High Level Design (HLD), which defines a
           vi.  Command
          vii.  Template
 
-#### Level 1 Practise Problems
+#### Level 1 Practice Problems
       1. Design Parking Lot
       2. Design a Vending Machine
       3. Design Stack Overflow
@@ -56,4 +56,18 @@ This design provides the foundation for High Level Design (HLD), which defines a
       5. Design Coffee Vending Machine
       6. Design Traffic Signal Control System
       7. Design a Task Management System
+
+#### Level 2 Practice Problems
+      1. Design Pub Sub System
+      2. Design Tic Tac Toe Game
+      3. Design Car Rental System
+      4. Design an ATM
+      5. Design Hotel Management System
+      6. Design LinkedIn
+      7. Design an Elevator
+      8. Design an Airline Management System
+      9. Design a Digital Wallet System
+      10. Design an Online Auction System
+      11. Design a Cache using LRU Eviction Policy
+      12. Design a Concert Ticket Booking System
 
