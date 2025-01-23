@@ -39,7 +39,7 @@ This design provides the foundation for High Level Design (HLD), which defines a
            v.   Bridge
            vi.  Facade
            vii. Fly-Weight
-      3. Dehavioural Design Patterns
+      3. Behavioural Design Patterns
            i.   Observer
            ii.  Strategy
            iii. Chain-Of-Responsibility
