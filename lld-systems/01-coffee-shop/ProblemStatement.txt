@@ -1,0 +1,2 @@
+Imagine a basic coffee that costs 10INR. If a customer wants to add milk or sugar, instead of creating new classes (CoffeeWithMilk or CoffeeWithSugar),
+we use decorators to wrap additional functionalities dynamically.
