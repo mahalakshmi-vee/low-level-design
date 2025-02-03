@@ -1,0 +1,8 @@
+A company wants to implement a notification system that can send messages through multiple channels like Email, SMS, Facebook etc. 
+Initially, notifications were sent via a single channel, but as the system evolved, they needed a flexible way to send multiple notifications at once.
+
+Challenges:
+1. Scalability: The system must support different notification types without modifying existing code.
+2. Flexibility: Users should be able to combine multiple notifications channels dynamically (e.g., send a notification via Email and SMS togther)
+3. Avoid Inheritance Explosion: A traditional inheritance-based approach would require creating separate subclasses for each possible notification
+combination (e.g EmailAndSMSNotification) which is not scalable.
