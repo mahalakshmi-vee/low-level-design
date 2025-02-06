@@ -1,5 +1,4 @@
-
-# Design a Parking Lot
+Design a Parking Lot
 
 1. Parking Lot Structure:
     * The parking lot will have multiple floors.
