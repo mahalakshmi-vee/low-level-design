@@ -1,7 +1,8 @@
 Design Vending Machine
 
 What is Vending Machine:
-A vending machine is an automated machine that dispenses products, usually food and beverages, to customers after they insert money (coins, bills, or digital payments) or a token. These machines are typically found in public places like offices, schools, hospitals, or shopping centers.
+A vending machine is an automated machine that dispenses products, usually food and beverages, to customers after they insert money (coins, bills, or digital payments) or a token. 
+These machines are typically found in public places like offices, schools, hospitals, or shopping centers.
 
 Key Features of Vending Machine:
   * Products Offered: Common items include snacks (chips, candy, nuts), drinks (soda, water, juice), and sometimes even non-food items like     
