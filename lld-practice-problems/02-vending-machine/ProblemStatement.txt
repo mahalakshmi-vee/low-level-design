@@ -12,3 +12,10 @@ Key Features of Vending Machine:
   
   * Automated: Once the payment is made, the machine automatically dispenses the selected product, making it a quick and convenient option for   
     people on the go.
+
+Types of Vending Machines:
+  * Snack Vending Machines: Dispense snacks such as chips, cookies, or candy.
+  * Beverage Vending Machines: Provided drink like water, soda, coffee, or juices.
+  * Fresh Food Vending Machines: Offer healthier options like sandwiches, salad, or fruit.
+  * Non-Food Vending Machines: Sell items like toiletries, electronics, or even small gadgets.
+  They provide a quick way to purchase items without the need for human interaction, making them popular for convenience and accessibility.
