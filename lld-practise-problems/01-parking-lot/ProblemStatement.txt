@@ -8,7 +8,7 @@
 2. Simple Spot Allocation - First Available Spot Allocation (FASA):
     * When a person arrives to park their vehicle:
         a. The system identifies the vehicle type.
-        b. The system then searches for the first available parking spot that fits the vehicle type. This search starts from the first floor,               first row and first column.
+        b. The system then searches for the first available parking spot that fits the vehicle type. This search starts from the first floor, first row and first column.
         c. The system assigns the first available parking spot and updates its status to occupied.
 
 3. Ticket Generation:
@@ -31,7 +31,7 @@
         a. Whether the spot is available or occupied.
         b. The Ticket ID and Vehicle Number for occupied spots.
     * The system ensures there is no double-booking of spots and that the parking lot operates smoothly.
-    * The First Available Spot Allocation (FASA) strategy ensures that the system remains simple and efficient, as it always selects the first         available spot for the given vehicle type.
+    * The First Available Spot Allocation (FASA) strategy ensures that the system remains simple and efficient, as it always selects the first available spot for the given vehicle type.
 
 
 Future Enhancements (After Initial Phase):
@@ -39,7 +39,7 @@ Future Enhancements (After Initial Phase):
       As the system grows, you can implement a strategy that prefers parking spots closer to entrance or exit.
 
   * Spot Preferences (Shaded, Covered Spots, etc):
-      Allow the system to take user preferences into account, such as selecting a shaded spot or covered spot if available, especially in              outdoor lots.
+      Allow the system to take user preferences into account, such as selecting a shaded spot or covered spot if available, especially in outdoor lots.
 
   * Optimization for Long-term Parking: 
-      If a user parks for a long duration (e.g., all-day or overnight), the system could prioritize long term paking spots that are farther from       the entrance to free up spots near the entrance for short-term parkers.
+      If a user parks for a long duration (e.g., all-day or overnight), the system could prioritize long term paking spots that are farther from the entrance to free up spots near the entrance for short-term parkers.
