@@ -1,7 +1,7 @@
 Design Logging Framework
 
 What is Logging Framework:
-  Logging Framework is a system that allows applications to log messages at different levels (INFO, DEBUG, WARN, ERROR) and direct them to different outputs like console, files, or external    systems.
+  Logging Framework is a system that allows applications to log messages at different levels (INFO, DEBUG, WARN, ERROR) and direct them to different outputs like console, files, or external systems.
 
 How the system works:
   1. User Logs a Message: The application calls the logging framework to log a message with a specified level (e.g., INFO, DEBUG).
