@@ -49,37 +49,37 @@ This design provides the foundation for High Level Design (HLD), which defines a
            vii. Template
 
 #### Level 1 Practice Problems:
-      1. Design Parking Lot
-      2. Design a Vending Machine
-      3. Design Stack Overflow
-      4. Design Logging Framework
-      5. Design Coffee Vending Machine
-      6. Design Traffic Signal Control System
-      7. Design a Task Management System
+      1.  Design Parking Lot
+      2.  Design a Vending Machine
+      3.  Design Stack Overflow
+      4.  Design Logging Framework
+      5.  Design Coffee Vending Machine
+      6.  Design Traffic Signal Control System
+      7.  Design a Task Management System
 
 #### Level 2 Practice Problems:
-      1. Design Pub Sub System
-      2. Design Tic Tac Toe Game
-      3. Design Car Rental System
-      4. Design an ATM
-      5. Design Hotel Management System
-      6. Design LinkedIn
-      7. Design an Elevator
-      8. Design an Airline Management System
-      9. Design a Digital Wallet System
-      10. Design an Online Auction System
-      11. Design a Cache using LRU Eviction Policy
-      12. Design a Concert Ticket Booking System
+      8.  Design Pub Sub System
+      9.  Design Tic Tac Toe Game
+      10. Design Car Rental System
+      11. Design an ATM
+      12. Design Hotel Management System
+      13. Design LinkedIn
+      14. Design an Elevator
+      15. Design an Airline Management System
+      16. Design a Digital Wallet System
+      17. Design an Online Auction System
+      18. Design a Cache using LRU Eviction Policy
+      19. Design a Concert Ticket Booking System
 
 #### Level 3 Practice Problems:
-      1. Design Movie Ticket Booking System
-      2. Design Splitwise
-      3. Design a Snake and Ladder Game
-      4. Design Online Shopping System like Amazon
-      5. Design Online Stock Brokerage System
-      6. Design CricInfo
-      7. Design ChessGame
-      8. Design Ride Sharing Service (like Uber)
-      9. Design Online Food Delivery Service (like Swiggy)
-      10. Design Music Streaming Service (like Spotify)
-      11. Design University Course Registration System
+      20. Design Movie Ticket Booking System
+      21. Design Splitwise
+      22. Design a Snake and Ladder Game
+      23. Design Online Shopping System like Amazon
+      24. Design Online Stock Brokerage System
+      25. Design CricInfo
+      26. Design ChessGame
+      27. Design Ride Sharing Service (like Uber)
+      28. Design Online Food Delivery Service (like Swiggy)
+      29. Design Music Streaming Service (like Spotify)
+      30. Design University Course Registration System
