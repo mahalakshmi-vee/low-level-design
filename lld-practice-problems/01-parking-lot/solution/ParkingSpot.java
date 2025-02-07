@@ -1,10 +1,8 @@
 package com.practice.parking_lot_system;
 
 import lombok.Getter;
-import lombok.Setter;
 
 @Getter
-@Setter
 public class ParkingSpot {
 	private String spotId;
 	private ParkingSpotType parkingSpotType;
@@ -14,5 +12,13 @@ public class ParkingSpot {
 		this.spotId = spotId;
 		this.parkingSpotType = parkingSpotType;
 		this.isOccupied = false;
+	}
+
+	public void occupySpot() {
+		isOccupied = true;
+	}
+
+	public void unOccupySpot() {
+		isOccupied = false;
 	}
 }
