@@ -37,7 +37,7 @@ public class ParkingFloor {
 		if (!parkingSpotMap.containsKey(spotId))
 			return false;
 		ParkingSpot parkingSpot = parkingSpotMap.get(spotId);
-		parkingSpot.setOccupied(false);
+		parkingSpot.unOccupySpot();
 		return true;
 	}
 
