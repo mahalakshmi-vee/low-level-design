@@ -39,7 +39,7 @@ public class ParkingLot {
 			throw new Exception("No available spot.");
 		String ticketId = vehicleNumber + "-" + parkingSpot.getSpotId();
 
-		parkingSpot.setOccupied(true);
+		parkingSpot.occupySpot();
 		ParkingResult parkingResult = new ParkingResult(ticketId, parkingSpot.getSpotId(), vehicleNumber);
 		activeParkings.put(ticketId, parkingResult);
 		System.out.println("Vehicle parked successfully");
