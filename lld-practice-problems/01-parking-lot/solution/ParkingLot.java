@@ -64,7 +64,7 @@ public class ParkingLot {
 		return parkingResult;
 	}
 
-	public void unParkVehicle(String ticketId) {
+	public synchronized void unParkVehicle(String ticketId) {
 		ParkingResult parkingResult = activeParkings.get(ticketId);
 		for (Map.Entry<Integer, ParkingFloor> entry : parkingFloorMap.entrySet()) {
 			ParkingFloor parkingFloor = entry.getValue();
