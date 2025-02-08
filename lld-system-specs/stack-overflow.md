@@ -13,8 +13,11 @@
 
 #### **How Users Gain Reputation:**
 A user's question is upvoted: +5
+
 A user's answer is upvoted: +10
+
 A user's answer is accepted by the question author: +15
+
 A user accepts someone's answers to their questions: +2
 
 #### **How Users Lose Repuations:**
