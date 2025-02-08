@@ -12,14 +12,11 @@
 ### **Reputation System:**
 
 #### **How Users Gain Reputation:**
-A user's question is upvoted: +5
-
-A user's answer is upvoted: +10
-
-A user's answer is accepted by the question author: +15
-
-A user accepts someone's answers to their questions: +2
+1. A user's question is upvoted: +5
+2. A user's answer is upvoted: +10
+3. A user's answer is accepted by the question author: +15
+4. A user accepts someone's answers to their questions: +2
 
 #### **How Users Lose Repuations:**
-A user's question is downvoted: -2
-A user's answer is downvoted: -2
+1. A user's question is downvoted: -2
+2. A user's answer is downvoted: -2
