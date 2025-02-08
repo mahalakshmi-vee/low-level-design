@@ -7,7 +7,7 @@
 4. Users can search questions based on tags, keywords, or user profiles.
 5. The system should assign reputation score to users based on their activity and the quality of their contributions.
 6. Users can accept only one answer per question.
-7. The system should handle concurrent access and ensure data consitency.
+7. The system should handle concurrent access and ensure data consistency.
 
 ### **Reputation System:**
 
