@@ -10,4 +10,4 @@
 
 #### About the system:
 
-Traffic Control Signal system is a classic project where you will model the flow of traffic through a set of traffic signals (lights) to control the flow of vehicles and pedestricians.
+The traffic control signal system is a classic project where you will model the flow of traffic through a set of traffic signals (lights) to control the flow of vehicles and pedestricians.
