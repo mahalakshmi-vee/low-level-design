@@ -5,7 +5,7 @@ Develop a basic logging library that can be used by applications to log messages
 The library should handle message logging efficiently and reliably, offering basic configuration options.
 
 
-### **Key Requirements:**
+### **Requirements:**
 1. Driver application should be able to initialize the library and log messages to the desired sink.
 2. Logger has the following capabilities:
    
