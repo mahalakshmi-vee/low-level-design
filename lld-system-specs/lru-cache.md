@@ -2,7 +2,7 @@
 
 ### Requirements:
 
-Design a data structure that follows the constraints of a #### Least Recently Used (LRU) Cache.
+Design a data structure that follows the constraints of a **Least Recently Used (LRU)** Cache.
 
 1. Initialize: Initialize the LRU cache with a positive size capacity.
 2. Get: Return the value of the key if the key exists, otherwise return -1.
