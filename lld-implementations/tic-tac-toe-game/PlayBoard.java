@@ -66,6 +66,9 @@ public class PlayBoard {
 			}
 		}
 
+		if (isWon)
+			return isWon;
+
 		// Diagonal check (top-right to bottom-left)
 		if (row + column == board.length - 1) {
 			for (int i = 0; i < board.length; i++) {
