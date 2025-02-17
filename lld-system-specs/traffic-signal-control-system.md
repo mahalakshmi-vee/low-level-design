@@ -1,4 +1,4 @@
-## **Design Traffic Control Signal System**
+## **Design Traffic Signal Control System**
 
 ### **Requirements:**
 1. The traffic signal system should control the flow of traffic at an intersection with multiple roads.
