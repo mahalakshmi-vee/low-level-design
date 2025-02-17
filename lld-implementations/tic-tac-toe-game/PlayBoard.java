@@ -10,7 +10,7 @@ public class PlayBoard {
 		board = new PlayPiece[3][3];
 	}
 
-	public boolean isValidCell(int row, int column) {
+	public boolean isCellValid(int row, int column) {
 		if (!(row >= 0 && column >= 0 && row < board.length && column < board[0].length)) {
 			System.out.println("Please input a valid row and column cell.");
 			return false;
@@ -22,7 +22,7 @@ public class PlayBoard {
 		return true;
 	}
 
-	public boolean canPlaceThePiece(int row, int column, PlayPiece playPiece) {
+	public boolean placePlayPiece(int row, int column, PlayPiece playPiece) {
 
 		board[row][column] = playPiece;
 		return true;
@@ -32,30 +32,32 @@ public class PlayBoard {
 		boolean isWon = true;
 		// Horizontal check
 		for (int c = 0; c < board[0].length; c++) {
-			if (c == column)
-				continue;
 			if (board[row][c] != playPiece) {
 				isWon = false;
 				break;
 			}
 		}
 
+		// If horizontal check passes, return true
 		if (isWon)
 			return isWon;
 
+		// Reset for vertical check
+		isWon = true;
 		// Vertical check
 		for (int r = 0; r < board.length; r++) {
-			if (r == row)
-				continue;
 			if (board[r][column] != playPiece) {
 				isWon = false;
 				break;
 			}
 		}
 
+		// If vertical check passes, return true
 		if (isWon)
 			return isWon;
 
+		// Reset for diagonal check (main diagonal)
+		isWon = true;
 		// Diagonal check (top-left to bottom-right)
 		if (row == column) {
 			for (int i = 0; i < board.length; i++) {
@@ -66,9 +68,12 @@ public class PlayBoard {
 			}
 		}
 
+		// If main diagonal check passes, return true
 		if (isWon)
 			return isWon;
 
+		// Reset for diagonal check (anti-diagonal)
+		isWon = true;
 		// Diagonal check (top-right to bottom-left)
 		if (row + column == board.length - 1) {
 			for (int i = 0; i < board.length; i++) {
@@ -79,6 +84,7 @@ public class PlayBoard {
 			}
 		}
 
+		// If anti-diagonal check passes, return true
 		return isWon;
 	}
 
