@@ -31,7 +31,7 @@ So, every time the light cycle runs, it would stay red for 30 seconds, then gree
 
 This system is suitable well in situations where traffic flow is predictable and doesn't vary too much. For example, a quiet residential area where traffic doesn't change much during the day. However, it might not as efficient in busy places where traffic levels change frequently, which is why more advanced systems are often used in busy areas.
 
-System Recommendation:
+#### System Recommendation:
 
 Timer-based traffic control system: 
 Best suited for areas with predictable traffic volumes, like residential neighbourhoods. Since the traffic flow is usually consistent, the fixed timer system can efficiently regulate signal changes without needing to adjust based on real-time conditions.
