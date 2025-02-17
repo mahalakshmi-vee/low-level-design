@@ -38,13 +38,13 @@ public class TicTacToeGame {
 			int row = scanner.nextInt();
 			int column = scanner.nextInt();
 			// Validate row and column value
-			if (!playBoard.isValidCell(row, column)) {
+			if (!playBoard.isCellValid(row, column)) {
 				players.addFirst(currentPlayer);
 				continue;
 			}
 
 			// Place the piece
-			if (!playBoard.canPlaceThePiece(row, column, currentPlayer.getPlayPiece())) {
+			if (!playBoard.placePlayPiece(row, column, currentPlayer.getPlayPiece())) {
 				players.addFirst(currentPlayer);
 				continue;
 			}
