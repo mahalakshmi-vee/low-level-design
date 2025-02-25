@@ -106,7 +106,7 @@ This design provides the foundation for High Level Design (HLD), which defines a
       7. Design food rating system [https://leetcode.com/problems/design-a-food-rating-system/description/] 
       👉 Work on the hashmap data strcture to simulate a rating system.
       
-      8. Design a movie rental system [https://leetcode.com/problems/design-an-atm-machine/description/]
+      8. Design a movie rental system [https://leetcode.com/problems/design-movie-rental-system/description/]
       👉 Implement renting system
       
       9. Design browser history [https://leetcode.com/problems/design-browser-history/description/]
@@ -114,4 +114,5 @@ This design provides the foundation for High Level Design (HLD), which defines a
       
       10. Design a parking system [https://leetcode.com/problems/design-parking-system/description/]
       👉 Understand event-driven system design concepts.
-      
+
+      11. Design an ATM machine [https://leetcode.com/problems/design-an-atm-machine/description/]
