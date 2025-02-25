@@ -87,23 +87,31 @@ This design provides the foundation for High Level Design (HLD), which defines a
 #### Must Practice System Design Problems on LeetCode:
       1. Design Underground system [https://leetcode.com/problems/design-underground-system/description/]
       👉 Learn how train station services work with hashing techniques.
+      
       2. LRU Cache [https://leetcode.com/problems/lru-cache/description/]
       👉 Master caching strategies used in real-world systems.
+      
       3. LFU Cache [https://leetcode.com/problems/lfu-cache/description/]
       👉 Understand frequency-based eviction policies for efficient cache design.
+      
       4. Design Twitter [https://leetcode.com/problems/design-twitter/description/]
       👉 Implement a mini twitter with follow/unfollow features.
+      
       5. Design memory allocator [https://leetcode.com/problems/design-memory-allocator/description/]
       👉 Explore efficient data structure operations with constant time complexity.
+      
       6. Design HashMap [https://leetcode.com/problems/design-hashmap/description/]
       👉 Learn how to implement hash-based data strctures from scratch.
+      
       7. Design food rating system [https://leetcode.com/problems/design-a-food-rating-system/description/] 
       👉 Work on the hashmap data strcture to simulate a rating system.
+      
       8. Design a movie rental system [https://leetcode.com/problems/design-an-atm-machine/description/]
       👉 Implement renting system
+      
       9. Design browser history [https://leetcode.com/problems/design-browser-history/description/]
       👉 Develop navigation features similar to modern web browsers.
+      
       10. Design a parking system [https://leetcode.com/problems/design-parking-system/description/]
       👉 Understand event-driven system design concepts.
       
-      2. 
