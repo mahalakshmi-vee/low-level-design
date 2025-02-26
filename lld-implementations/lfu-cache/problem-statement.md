@@ -1,4 +1,6 @@
-Design and implement a data structure for a Least Frequently Used (LFU) cache.
+## Design and implement a data structure for a Least Frequently Used (LFU) cache.
+
+### Requirements:
 
 Implement the LFUCache class:
 
