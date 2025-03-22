@@ -26,27 +26,27 @@ This design provides the foundation for High Level Design (HLD), which defines a
       7. Class Diagrams
       8. Sequence Diagrams
 #### Learn about the Design Patterns:
-      1. Creational Design Patterns
-           i.   Factory
-           ii.  Abstract Factory
-           iii. Singleton
-           iv.  Builder
-      2. Structural Design Patterns
-           i.   Adapter
-           ii.  Proxy
-           iii. Decorator
-           iv.  Composite
-           v.   Bridge
-           vi.  Facade
-           vii. Fly-Weight
-      3. Behavioural Design Patterns
-           i.   Observer
-           ii.  Strategy
-           iii. Chain-Of-Responsibility
-           iv.  Iterator
-           v.   Interpreter
-           vi.  Command
-           vii. Template
+      * Creational Design Patterns
+           01.   Factory
+           02.  Abstract Factory
+           03. Singleton
+           04.  Builder
+      * Structural Design Patterns
+           05.   Adapter
+           06.  Proxy
+           07. Decorator
+           08.  Composite
+           09.   Bridge
+           10.  Facade
+           11. Fly-Weight
+      * Behavioural Design Patterns
+           12.   Observer
+           13.  Strategy
+           14. Chain-Of-Responsibility
+           15.  Iterator
+           16.   Interpreter
+           17.  Command
+           18. Template
 
 #### Level 1 Practice Problems:
       1.  Design Parking Lot
